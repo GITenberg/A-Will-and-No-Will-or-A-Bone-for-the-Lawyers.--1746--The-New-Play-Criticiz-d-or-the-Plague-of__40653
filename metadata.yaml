@@ -1,0 +1,32 @@
+_repo: A-Will-and-No-Will-or-A-Bone-for-the-Lawyers.--1746--The-New-Play-Criticiz-d-or-the-Plague-of__40653
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40653-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Macklin, Charles
+    deathdate: 1797
+    gutenberg_agent_id: '5532'
+    url: http://www.gutenberg.org/2009/agents/5532
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Macklin
+  editor:
+    agent_name: Kern, Jean B.
+    gutenberg_agent_id: '40749'
+    url: http://www.gutenberg.org/2009/agents/40749
+description: ''
+gutenberg_issued: '2012-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40653'
+  lccn: '71001030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama -- 18th century'
+title: A Will and No Will; or, A Bone for the Lawyers. (1746) The New Play Criticiz'd,
+  or the Plague of Envy. (1747)
+url: http://www.gutenberg.org/ebooks/40653
